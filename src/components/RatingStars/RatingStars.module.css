@@ -1,0 +1,7 @@
+.full {
+  fill: var(--star);
+}
+
+.empty {
+  fill: var(--badges);
+}
